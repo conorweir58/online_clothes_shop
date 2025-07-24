@@ -17,9 +17,15 @@ Download the source code and navigate to the folder containing `package.json` to
 ```bash 
 npm install
 ```
+
+Install the api requirments by navigating into the api and run
+
+```bash
+pip install -r requirments.txt
+```
 ## Running the app
 
-To run the app type 
+To run the app type
 
 ```bash
 npm start
@@ -28,6 +34,12 @@ npm start
 This will open a server running on localhost on port 3000 at [http://localhost:3000](http://localhost:3000)
 
 This port has been whitelisted by CORS in the django application.
+
+To run the API (inside api)
+
+```bash
+python manage.py runserver
+```
 
 ## Contributing
 
