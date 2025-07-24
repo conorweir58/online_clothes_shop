@@ -3,8 +3,8 @@
 
 ## Disclaimer
 
-This app was originaly built for the purposes of my CSC1040 final exam.
-To view the history of this project it can be located at: https://github.com/conorweir58/csc1040/tree/main/react_exam/csc1040-react-labexam
+This app was originaly built for the purposes of my CSC1040 final exam,
+thus the commit history for this project is hidden.
 
 ## Installation
 Download the source code and navigate to the folder containing `package.json` to install the libraries run 
