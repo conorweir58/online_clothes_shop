@@ -1,10 +1,16 @@
 
-# Online Clothes Shop
+# Online Clothes Shop System
 
 ## Disclaimer
 
 This app was originaly built for the purposes of my CSC1040 final exam,
 thus the commit history for this project is hidden.
+
+## Description
+
+This app is an Online Clothes Shop System built using:
+- Frontend: React, Bootstrap
+- Backend: Django REST framework
 
 ## Installation
 Download the source code and navigate to the folder containing `package.json` to install the libraries run 
